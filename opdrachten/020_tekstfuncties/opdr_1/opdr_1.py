@@ -10,7 +10,7 @@
 
 print()
 
-# Gebruik onderstaande variabelen en de print-functie
+# Gebruik onderstaande 010_variabelen en de print-functie
 # en toon de volgende zin op het scherm: Albert Einstein zei ooit: 'Als je niks fout doet, dan kun je ook niks leren!'
 voornaam = "albert"
 achternaam = "einstein"
