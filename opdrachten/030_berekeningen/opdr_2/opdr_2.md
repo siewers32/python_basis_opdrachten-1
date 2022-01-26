@@ -6,6 +6,7 @@ Deze opdracht hoort bij het hoofdstuk berekeningen op [edutorial.nl](https://www
 ### Opdracht
 Maak gebruik van het bestand: opdr_2.py
 * Pas de code aan van opdr_2.py
+* Push en submit je code naar github
 
 Zoek op internet op hoe je de temperatuur in Celcius naar Fahrenheit omrekent en andersom.
 

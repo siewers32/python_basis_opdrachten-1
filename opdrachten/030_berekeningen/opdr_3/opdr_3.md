@@ -6,6 +6,7 @@ Deze opdracht hoort bij het hoofdstuk berekeningen op [edutorial.nl](https://www
 ### Opdracht
 Maak gebruik van het bestand: opdr_3.py
 * Pas de code aan van opdr_3.py
+* Push en submit je code naar github
 
 Maak een variabele x en een variabele y. 
 

@@ -7,7 +7,7 @@ Deze opdracht hoort bij het hoofdstuk variabelen op [edutorial.nl](https://www.e
 Op [w3schools](https://www.w3schools.com/python/python_ref_string.asp) vind je verschillende functies die je op tekst toe kan passen. Gebruik ze bij de volgende opdracht.  
 * Maak gebruik van het bestand: opdr_1.py
 * Pas de code aan van opdr_1.py
-* Push en submit je code naar github
+* Commit en push je code naar github
 
 Opdracht 1a
 * Zorg dat de volgende zin op het scherm wordt getoond met de print-functie:

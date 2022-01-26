@@ -6,11 +6,10 @@ Deze opdracht hoort bij het hoofdstuk variabelen op [edutorial.nl](https://www.e
 ### Opdracht
 Maak gebruik van het bestand: opdr_3.py
 * Pas de code aan van opdr_3.py
-* Maak van onderstaande waarden een dictionary.
-* Zorg ervoor dat de dictionary wordt geprint.
+* Commit en push je code naar github
 
-Een dictionary heeft keys (of namen) en values. 
-Dit zijn de name- value-pairs:  
+Maak van onderstaande namen en waarden een dictionary.  
+Zorg ervoor dat de dictionary wordt geprint.
 
 naam = willem  
 achternaam = van der broek  
