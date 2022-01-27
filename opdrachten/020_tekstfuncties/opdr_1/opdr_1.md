@@ -1,7 +1,7 @@
 # Python basis
 
 ### Tekstfuncties
-Deze opdracht hoort bij het hoofdstuk variabelen op [edutorial.nl](https://www.edutorial.nl)
+Deze opdracht hoort bij de cursus python op [edutorial.nl](https://www.edutorial.nl/course/python)
 
 ### Opdracht
 Op [w3schools](https://www.w3schools.com/python/python_ref_string.asp) vind je verschillende functies die je op tekst toe kan passen. Gebruik ze bij de volgende opdracht.  

@@ -1,7 +1,7 @@
 # Python basis
 
 ### Tekstfuncties
-Deze opdracht hoort bij het hoofdstuk tekstfuncties op [edutorial.nl](https://www.edutorial.nl)
+Deze opdracht hoort bij de cursus python op [edutorial.nl](https://www.edutorial.nl/course/python)
 
 ### Opdracht
 Maak gebruik van het bestand: opdr_3.py

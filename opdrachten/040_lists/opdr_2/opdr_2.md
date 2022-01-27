@@ -1,7 +1,7 @@
 # Python basis
 
 ### Lists
-Deze opdracht hoort bij het hoofdstuk lists op [edutorial.nl](https://www.edutorial.nl)
+Deze opdracht hoort bij de cursus python op [edutorial.nl](https://www.edutorial.nl/course/python)
 
 ### Opdracht
 Maak gebruik van het bestand: opdr_2.py

@@ -1,7 +1,7 @@
 # Python basis
 
-### Loops
-Deze opdracht hoort bij het hoofdstuk condities op [edutorial.nl](https://www.edutorial.nl)
+### Tekstbestanden
+Deze opdracht hoort bij de cursus python op [edutorial.nl](https://www.edutorial.nl/course/python)
 
 ### Opdracht
 

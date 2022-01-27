@@ -1,7 +1,7 @@
 # Python basis
 
 ### Input function
-Deze opdracht hoort bij het hoofdstuk input function op [edutorial.nl](https://www.edutorial.nl)
+Deze opdracht hoort bij de cursus python op [edutorial.nl](https://www.edutorial.nl/course/python)
 
 ### Opdracht
 
