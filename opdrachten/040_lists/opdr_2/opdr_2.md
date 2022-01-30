@@ -25,7 +25,10 @@ rivieren = list(rivier_info.keys())
 
 Print de naam van de 1e rivier  
 Print het 2e land waar de 1e rivier doorheen stroomt
-Zowel land als rivier beginnen met een hoofdletter  
+Zowel land als rivier beginnen met een hoofdletter, gebruik hiervoor een tekstfunctie. 
+
+> Gebruik bij alle opdrachten deze code rivieren[?]. Vul in wat er op de plek van het vraagteken moet komen.  
+> Gebruik ook deze code rivier_info[?][?]. Vul in wat er op de plek van de vraaktekens moet komen.
 
 Output:  
 >De rivier Rijn stroomt onder andere door Duitsland

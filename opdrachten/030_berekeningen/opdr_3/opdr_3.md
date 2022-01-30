@@ -16,12 +16,12 @@ Stel de volgende waarden voor x in om je code te testen
 Tip: Denk aan de volgorde waarin python omgaat met berwerkingen.  
 
 Python Operators Precedence Rule – PEMDAS  
-- P – Parentheses.
-- E – Exponentiation.
-- M – Multiplication.
-- D – Division.
-- A – Addition.
-- S – Subtraction.
+- P – Parentheses. = ()
+- E – Exponentiation. = **
+- M – Multiplication. = *
+- D – Division. = /
+- A – Addition. = +
+- S – Subtraction. = -
 ```python
 x = 1
 ```
