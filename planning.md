@@ -1,5 +1,11 @@
 # Planning opdrachten Python Basis
 
+### Week 5
+* 31 jan - 4 feb
+* Python3 installeren
+* Editor configureren
+* Github account delen en repo forken
+
 ### Week 6 
 * 7 feb - 11 feb  
 * Opdrachten bij hoofdstukken over variabelen en tekstfuncties
