@@ -4,5 +4,4 @@
 
 # Hier komt je code...
 
-my_list = [11,25]
-print(my_list)
+my_list = ...
