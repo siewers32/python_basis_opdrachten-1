@@ -32,8 +32,8 @@
 
 ### Week 12 (toetsweek)
 * 21 mrt - 25 mrt
-* Toetsen
+* Project stembus
 
 ### Week 13 (herkansingen)
 * 28 mrt - 3 april
-* Herkansingen
+* Oplevering project stembus
