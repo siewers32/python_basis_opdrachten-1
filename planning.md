@@ -67,10 +67,23 @@
 * MySQL Queries
 
 ### Week 25
-* 7 -10 juni
+* 7 juni - 10 juni
 * PyMySQL Queries
 
 ### Week 26
-* 13 - 19 juni
+* 13 juni - 17 juni
 * Examenvoorbereiding?
+
+### Week 27
+* 20 juni - 24 juni
+* Toets
+
+### Week 28
+* 27 juni - 1 juli
+* Herkansingen
+
+### Week 29
+* 4 juli - 8 juli
+* Her-herkansingen 
+
 
