@@ -57,3 +57,20 @@
 * 9 mei - 22 mei
 * Netmikom module
 * Remote besturen van Cisco netwerk apparatuur
+
+### Week 23
+* 23 - 25 mei
+* MySQL Databases
+
+### Week 24
+* 30 mei - 5 juni
+* MySQL Queries
+
+### Week 25
+* 7 -10 juni
+* PyMySQL Queries
+
+### Week 26
+* 13 - 19 juni
+* Examenvoorbereiding?
+
