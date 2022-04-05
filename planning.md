@@ -49,3 +49,10 @@
 ### Week 16
 * 19 april - 22 april
 * Windows WMI module
+
+### Week 17 en 18
+* Meivakantie
+
+### Week 19 - 22
+* Netmikom module
+* Remote besturen van Cisco netwerk apparatuur
