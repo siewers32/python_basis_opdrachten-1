@@ -35,5 +35,17 @@
 * Project stembus
 
 ### Week 13 (herkansingen)
-* 28 mrt - 3 april
+* 28 mrt - 1 april
 * Oplevering project stembus
+
+### Week 14
+* 4 april - 8 april
+* Foutafhandeling
+
+### Week 15
+* 11 april - 14 april
+* Zelf modules maken
+
+### Week 16
+* 19 april - 22 april
+* Windows WMI module
