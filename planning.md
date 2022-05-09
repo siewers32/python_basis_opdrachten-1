@@ -55,7 +55,7 @@
 
 ### Week 19 - 22
 * 9 mei - 22 mei
-* Netmikom module
+* Netmikom en psutil module
 * Remote besturen van Cisco netwerk apparatuur
 
 ### Week 23
